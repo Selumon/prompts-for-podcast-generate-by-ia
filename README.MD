@@ -20,5 +20,3 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 
 
- 🛠️ Instruções de execução
-
